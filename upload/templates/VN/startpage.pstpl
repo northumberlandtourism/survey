@@ -1,0 +1,56 @@
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<title>{SURVEYNAME} – {GROUPNAME}</title>
+		<meta name="generator" content="LimeSurvey http://www.limesurvey.org" />
+
+		<!-- The following line includes template.css and if an RTL-language is used template-rtl.css -->
+        {TEMPLATECSS}
+<!--[if IE 8]>
+    	<link rel="stylesheet" type="text/css" href="{TEMPLATEURL}ie_fix_8.css" />
+<![endif]-->
+<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="{TEMPLATEURL}ie_fix_7.css" />
+<![endif]-->
+<!--[if lte IE 6]>
+		<link rel="stylesheet" type="text/css" href="{TEMPLATEURL}ie_fix_6.css" />
+<![endif]-->
+
+    <!-- The following CSS hides visual elements of the progress bar from screen readers. -->
+    <style type="text/css" media="aural tty">
+        progress-graph .zero, progress-graph .graph, progress-graph .cent { display: none; }
+    </style>
+	<script type="text/javascript" src="{TEMPLATEURL}template.js"></script>    
+<link rel="shortcut icon" href="{TEMPLATEURL}favicon.ico" />
+</head>
+	<body id="page_bg">
+		<div id="wrapper2">
+			<div id="wrapper">
+				
+                
+<div id="seheader">
+
+<div class="sys_control c129305 ctl_Content  toplefttext">Official Northumberland visitor surveys</div>
+<div class="sys_control c129287 ctl_Content  actionlink"><ul>
+	<li><a title="Northumberland Holiday Guides" href="http://www.visitnorthumberland.com/brochures" target="_blank">Brochures</a></li>
+	<li><a title="special offer discounts and deals" href="http://www.visitnorthumberland.com/special-offers" target="_blank">Offers</a></li>
+	<li><a title="online northumberland gifts" href="http://www.visitnorthumberland.com" target="_blank">Website</a></li>
+	<li><a title="online northumberland gifts" href="http://www.visitnorthumberlandblog.com" target="_blank">Blog</a></li>    
+	<li><a title="win free holidays" href="http://www.visitnorthumberland.com/accommodation/competitions" target="_blank">Win</a></li>
+	<li><a title="tourist information centres" href="http://www.visitnorthumberland.com/tourist-information-centres" target="_blank">TICs</a></li>
+	<li class="last"><a title="Contact details for Tourist Information Centres and Northumberland Tourism" href="http://www.visitnorthumberland.com/contact-us" target="_blank">Contact</a></li>
+</ul></div>
+
+<div class="sys_control c129298 ctl_Content  logo">
+<img alt="northumberland visitor surveys" width="302" height="101" src="/images/logo.png" />
+
+</div>
+
+<div class="sys_control c129300 ctl_Content  herotext"><img src="/images/northumberland-survey.png" alt="Polls and surveys" width="141" height="50" /></div>
+
+
+
+</div>
+                
+                
+                
+				<div class="surveyname">{SURVEYNAME}</div>
+				<div class="survey-main">
