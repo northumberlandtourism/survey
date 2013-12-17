@@ -1,5 +1,5 @@
 <?php
-/*
+/* ADDITIONAL COMMENTS IN ACTIVATE.PHP
  * LimeSurvey
  * Copyright (C) 2007 The LimeSurvey Project Team / Carsten Schmitz
  * All rights reserved.
